@@ -1,0 +1,3 @@
+# Personal output: undo files and reports contain meeting subjects
+BC-Meetings-Undo-*.json
+*.csv
